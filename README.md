@@ -15,7 +15,7 @@ adjacency_matrix = [
     [0, 0, 0, 0, 0, 0, 0, 1, 0, 1],
     [0, 0, 1, 0, 0, 0, 1, 1, 1, 0]
 ]
-
+```
 ## ham.py
 
 The `ham.py` file contains the initial adjacency matrix of the graph.  It uses NetworkX to work with graphs.
