@@ -1,4 +1,6 @@
 # Hamiltonian Path Finder
+![Sample image](/sample.jpg)
+
 
 This Python project is designed to find Hamiltonian paths and cycles in a given graph. The initial adjacency matrix for the graph is provided below:
 
